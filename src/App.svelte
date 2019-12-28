@@ -3,18 +3,21 @@
 
   import MusicBar from "./components/MusicBar/MusicBar.svelte";
   import SongRow from "./components/SongRow/SongRow.svelte";
+  import { songs, currentIndex, playing } from "./store/current.js";
 
   import logoSvg from "./svg/logo.svg";
-
-  let songs = [];
 
   function getSongs() {
     return fetch("/api/data.json").then(resp => resp.json());
   }
 
+  function setIndex(idx) {
+    currentIndex.set(idx);
+  }
+
   onMount(() => {
     getSongs().then(data => {
-      songs = data;
+      songs.set(data);
     });
   });
 </script>
@@ -38,6 +41,25 @@
     height: 100px;
 
     color: black;
+
+    &.playing {
+      animation: {
+        name: SPIN;
+        duration: 10s;
+        timing-function: linear;
+        iteration-count: infinite;
+      }
+    }
+  }
+
+  @keyframes SPIN {
+    0% {
+      transform: rotate(0deg);
+    }
+
+    100% {
+      transform: rotate(360deg);
+    }
   }
 
   main {
@@ -45,35 +67,38 @@
 
     padding: var(--size-padding) var(--size-padding) 140px;
 
-    &:before {
-      position: fixed;
+    // &:before {
+    //   position: fixed;
 
-      top: 0;
-      left: 0;
+    //   top: 0;
+    //   left: 0;
 
-      width: 100%;
-      height: 50vh;
+    //   width: 100%;
+    //   height: 50vh;
 
-      content: "";
+    //   content: "";
 
-      pointer-events: none;
+    //   pointer-events: none;
 
-      background: linear-gradient(
-        to bottom,
-        var(--color-pink),
-        transparent 75%
-      );
-    }
+    //   background: linear-gradient(
+    //     to bottom,
+    //     var(--color-pink),
+    //     transparent 75%
+    //   );
+    // }
   }
 </style>
 
-<span class="logo">
+<span class="logo" class:playing={$playing}>
   {@html logoSvg}
 </span>
 
 <main>
-  {#each songs as song, index}
-    <SongRow {...song} highlight={index === 3} />
+  {#each $songs as song, index}
+    <SongRow
+      onSelect={() => setIndex(index)}
+      {...song}
+      highlight={index === $currentIndex} />
   {/each}
 </main>
 

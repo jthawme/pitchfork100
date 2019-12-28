@@ -6,6 +6,8 @@
   import SkipForward from "../svg/skip-forward.svg";
   import ThumbsDown from "../svg/thumbs-down.svg";
   import ThumbsUp from "../svg/thumbs-up.svg";
+  import Play from "../svg/play.svg";
+  import Pause from "../svg/pause.svg";
 
   export let name = "";
   export let size = "medium";
@@ -17,7 +19,9 @@
     "skip-back": SkipBack,
     "skip-forward": SkipForward,
     "thumbs-down": ThumbsDown,
-    "thumbs-up": ThumbsUp
+    "thumbs-up": ThumbsUp,
+    play: Play,
+    pause: Pause
   };
 
   function getIcon(name) {

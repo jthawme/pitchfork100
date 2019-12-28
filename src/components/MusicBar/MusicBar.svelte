@@ -3,6 +3,35 @@
   import Icon from "../Icon.svelte";
   import Player from "../Player/Player.svelte";
   import UsersDisplay from "../UsersDisplay/UsersDisplay.svelte";
+
+  import {
+    currentSong,
+    currentIndex,
+    songs,
+    playing
+  } from "../../store/current.js";
+
+  let shouldPlay = false;
+
+  function previousTrack() {
+    if ($currentIndex > 0) {
+      currentIndex.set($currentIndex - 1);
+    } else {
+      currentIndex.set($songs.length - 1);
+    }
+  }
+
+  function nextTrack() {
+    if ($currentIndex < $songs.length - 2) {
+      currentIndex.update(n => n + 1);
+    } else {
+      currentIndex.set(0);
+    }
+  }
+
+  function togglePlay() {
+    shouldPlay = !shouldPlay;
+  }
 </script>
 
 <style lang="scss">
@@ -51,13 +80,23 @@
 
     align-items: center;
     justify-content: flex-end;
+  }
 
-    :global(span) {
-      margin-left: 10px;
+  .action {
+    padding: 0;
+    margin: 0;
+    margin-left: 5px;
 
-      &:nth-child(1) {
-        margin-right: 20px;
-      }
+    border: none;
+    background-color: transparent;
+
+    outline: 0;
+
+    color: inherit;
+    cursor: pointer;
+
+    &.spacer {
+      margin: 0 15px;
     }
   }
 
@@ -88,20 +127,34 @@
     </div>
   </div>
   <div class="music">
-    <Grid>
-      <div class="number">14.</div>
-      <div class="info">
-        <span>Your Graduation</span>
-        <span>Modern Baseball</span>
-      </div>
-      <div class="player">
-        <Player />
-      </div>
-      <div class="actions">
-        <Icon name="external-link" />
-        <Icon name="skip-back" />
-        <Icon name="skip-forward" />
-      </div>
-    </Grid>
+    {#if $currentSong}
+      <Grid>
+        <div class="number">{$currentSong.number}.</div>
+        <div class="info">
+          <span>{$currentSong.song.title}</span>
+          <span>{$currentSong.song.artist}</span>
+        </div>
+        <div class="player">
+          <Player {shouldPlay} />
+        </div>
+        <div class="actions">
+          <button class="action spacer" on:click={togglePlay}>
+            <Icon name={$playing ? 'pause' : 'play'} />
+          </button>
+          <a
+            target="_blank"
+            href="https://youtube.com/watch?v={$currentSong.youtube.id}"
+            class="action spacer">
+            <Icon name="external-link" />
+          </a>
+          <button class="action" on:click={previousTrack}>
+            <Icon name="skip-back" />
+          </button>
+          <button class="action" on:click={nextTrack}>
+            <Icon name="skip-forward" />
+          </button>
+        </div>
+      </Grid>
+    {/if}
   </div>
 </aside>

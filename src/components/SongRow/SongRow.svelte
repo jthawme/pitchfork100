@@ -7,10 +7,26 @@
   export let image;
   export let name;
 
+  export let onSelect;
+
   export let highlight;
 </script>
 
 <style lang="scss">
+  .main:not(.highlight) > :global(div) {
+    cursor: pointer;
+
+    transition: {
+      property: opacity;
+      duration: 0.15s;
+    }
+
+    &:hover,
+    &:focus {
+      opacity: 0.5;
+    }
+  }
+
   .info {
     font-family: var(--font-family-headline);
 
@@ -84,7 +100,7 @@
   }
 </style>
 
-<span class:highlight>
+<span class="main" class:highlight on:click={onSelect}>
   <Grid margin center>
     <div class="info">
       <span class="title">{song.title}</span>

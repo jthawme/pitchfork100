@@ -1,0 +1,1902 @@
+[
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de68dabc43b7100080dda6d/master/w_1600%2Cc_limit/Shawn-Mendes-If-I-Cant-Have-You.jpg",
+        "name": "Shawn Mendes: “If I Can’t Have You”",
+        "number": 100,
+        "image": "Shawn-Mendes-If-I-Cant-Have-You.jpg",
+        "song": {
+            "artist": "Shawn Mendes",
+            "title": "If I Can’t Have You"
+        },
+        "youtube": {
+            "id": "oTJ-oqwxdZY",
+            "title": "Shawn Mendes - If I Can't Have You",
+            "image": {
+                "url": "https://i.ytimg.com/vi/oTJ-oqwxdZY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de68df5238c6f0008bc0d15/master/w_1600%2Cc_limit/DJ-Nate-Fuck-Dat.jpg",
+        "name": "DJ Nate: “Fuck Dat”",
+        "number": 99,
+        "image": "DJ-Nate-Fuck-Dat.jpg",
+        "song": {
+            "artist": "DJ Nate",
+            "title": "Fuck Dat"
+        },
+        "youtube": {
+            "id": "cZpVUaW-nmo",
+            "title": "Fuck Dat",
+            "image": {
+                "url": "https://i.ytimg.com/vi/cZpVUaW-nmo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de68e6bb517ce000899ee8a/master/w_1600%2Cc_limit/Brittany-Howard-13th-Century-Metal.jpg",
+        "name": "Brittany Howard: “13th Century Metal”",
+        "number": 98,
+        "image": "Brittany-Howard-13th-Century-Metal.jpg",
+        "song": {
+            "artist": "Brittany Howard",
+            "title": "13th Century Metal"
+        },
+        "youtube": {
+            "id": "gUuuFGFpBlU",
+            "title": "Brittany Howard - 13th Century Metal (Official Audio)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/gUuuFGFpBlU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de68ee9b517ce000899ee8c/master/w_1600%2Cc_limit/Klein-Claim-It.jpeg",
+        "name": "Klein: “Claim It”",
+        "number": 97,
+        "image": "Klein-Claim-It.jpeg",
+        "song": {
+            "artist": "Klein",
+            "title": "Claim It"
+        },
+        "youtube": {
+            "id": "0_B8dMObh3w",
+            "title": "Klein - Claim It",
+            "image": {
+                "url": "https://i.ytimg.com/vi/0_B8dMObh3w/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de68fa1c43b7100080dda6f/master/w_1600%2Cc_limit/Ciara-Thinkin-Bout-You.jpg",
+        "name": "Ciara: “Thinkin Bout You”",
+        "number": 96,
+        "image": "Ciara-Thinkin-Bout-You.jpg",
+        "song": {
+            "artist": "Ciara",
+            "title": "Thinkin Bout You"
+        },
+        "youtube": {
+            "id": "kVczk4uIPPg",
+            "title": "Ciara - Thinkin Bout You  [OFFICIAL VIDEO]",
+            "image": {
+                "url": "https://i.ytimg.com/vi/kVczk4uIPPg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de69213238c6f0008bc0d4b/master/w_1600%2Cc_limit/Boy-Scouts-Get-Well-Soon.jpg",
+        "name": "Boy Scouts: “Get Well Soon”",
+        "number": 95,
+        "image": "Boy-Scouts-Get-Well-Soon.jpg",
+        "song": {
+            "artist": "Boy Scouts",
+            "title": "Get Well Soon"
+        },
+        "youtube": {
+            "id": "yVISD2jlEfs",
+            "title": "Boy Scouts - Get Well Soon",
+            "image": {
+                "url": "https://i.ytimg.com/vi/yVISD2jlEfs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6932d4072b60008774456/master/w_1600%2Cc_limit/Lil-Keed-Its-Up-Freestyle.jpg",
+        "name": "Lil Keed: “It’s Up Freestyle”",
+        "number": 94,
+        "image": "Lil-Keed-Its-Up-Freestyle.jpg",
+        "song": {
+            "artist": "Lil Keed",
+            "title": "It’s Up Freestyle"
+        },
+        "youtube": {
+            "id": "rDS5WJJP5Z8",
+            "title": "Lil Keed - It's Up Freestyle [Official Video]",
+            "image": {
+                "url": "https://i.ytimg.com/vi/rDS5WJJP5Z8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de69393238c6f0008bc0d4d/master/w_1600%2Cc_limit/Sky-Ferreira-Downhill-Lullaby.jpg",
+        "name": "Sky Ferreira: “Downhill Lullaby”",
+        "number": 93,
+        "image": "Sky-Ferreira-Downhill-Lullaby.jpg",
+        "song": {
+            "artist": "Sky Ferreira",
+            "title": "Downhill Lullaby"
+        },
+        "youtube": {
+            "id": "GY_4rIwkj2Y",
+            "title": "Sky Ferreira - Downhill Lullaby - Lyrics",
+            "image": {
+                "url": "https://i.ytimg.com/vi/GY_4rIwkj2Y/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de69464b517ce000899eec2/master/w_1600%2Cc_limit/Roisin-Murphy-Incapable.jpg",
+        "name": "Róisín Murphy: “Incapable”",
+        "number": 92,
+        "image": "Roisin-Murphy-Incapable.jpg",
+        "song": {
+            "artist": "Róisín Murphy",
+            "title": "Incapable"
+        },
+        "youtube": {
+            "id": "H02BPY7vEms",
+            "title": "Róisín Murphy - Incapable (Official Audio)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/H02BPY7vEms/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de694edc43b7100080dda71/master/w_1600%2Cc_limit/Jay-Som-Superbike.jpg",
+        "name": "Jay Som: “Superbike”",
+        "number": 91,
+        "image": "Jay-Som-Superbike.jpg",
+        "song": {
+            "artist": "Jay Som",
+            "title": "Superbike"
+        },
+        "youtube": {
+            "id": "jJYr1_XeNbs",
+            "title": "Jay Som - Superbike [OFFICIAL LYRIC VIDEO]",
+            "image": {
+                "url": "https://i.ytimg.com/vi/jJYr1_XeNbs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de69550238c6f0008bc0d4f/master/w_1600%2Cc_limit/Hand-Habits-Placeholder.jpg",
+        "name": "Hand Habits: “placeholder”",
+        "number": 90,
+        "image": "Hand-Habits-Placeholder.jpg",
+        "song": {
+            "artist": "Hand Habits",
+            "title": "placeholder"
+        },
+        "youtube": {
+            "id": "QYXwR9FFMVs",
+            "title": "Hand Habits  - placeholder",
+            "image": {
+                "url": "https://i.ytimg.com/vi/QYXwR9FFMVs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de69699b9e6f50008a30512/master/w_1600%2Cc_limit/Control-Top-Office-Rage.jpg",
+        "name": "Control Top: “Office Rage”",
+        "number": 89,
+        "image": "Control-Top-Office-Rage.jpg",
+        "song": {
+            "artist": "Control Top",
+            "title": "Office Rage"
+        },
+        "youtube": {
+            "id": "hnoSdi3Slsc",
+            "title": "Control Top \"Office Rage\" Official Video",
+            "image": {
+                "url": "https://i.ytimg.com/vi/hnoSdi3Slsc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de697309669180008bb642a/master/w_1600%2Cc_limit/Saweetie-My-Type.jpg",
+        "name": "Saweetie: “My Type”",
+        "number": 88,
+        "image": "Saweetie-My-Type.jpg",
+        "song": {
+            "artist": "Saweetie",
+            "title": "My Type"
+        },
+        "youtube": {
+            "id": "x5c2iRHlAHA",
+            "title": "Saweetie - My Type (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/x5c2iRHlAHA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de697e7b9e6f50008a30514/master/w_1600%2Cc_limit/Taylor-Swift-Lover.jpg",
+        "name": "Taylor Swift: “Lover”",
+        "number": 87,
+        "image": "Taylor-Swift-Lover.jpg",
+        "song": {
+            "artist": "Taylor Swift",
+            "title": "Lover"
+        },
+        "youtube": {
+            "id": "-BjZmE2gtdo",
+            "title": "Taylor Swift - Lover",
+            "image": {
+                "url": "https://i.ytimg.com/vi/-BjZmE2gtdo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de69871238c6f0008bc0d51/master/w_1600%2Cc_limit/Bedouine-Bird.jpeg",
+        "name": "Bedouine: “Bird”",
+        "number": 86,
+        "image": "Bedouine-Bird.jpeg",
+        "song": {
+            "artist": "Bedouine",
+            "title": "Bird"
+        },
+        "youtube": {
+            "id": "tWBL_8MpMVo",
+            "title": "Bedouine - Bird",
+            "image": {
+                "url": "https://i.ytimg.com/vi/tWBL_8MpMVo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de698c3238c6f0008bc0d53/master/w_1600%2Cc_limit/Duwap-Kaine-Flyin.jpg",
+        "name": "Duwap Kaine: “Flyin’”",
+        "number": 85,
+        "image": "Duwap-Kaine-Flyin.jpg",
+        "song": {
+            "artist": "Duwap Kaine",
+            "title": "Flyin’"
+        },
+        "youtube": {
+            "id": "7Jrx1Edja5k",
+            "title": "Kaine - Flyin (Official Music Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/7Jrx1Edja5k/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de69978b517ce000899eef8/master/w_1600%2Cc_limit/Ari-Lennox-New-Apartment.jpg",
+        "name": "Ari Lennox: “New Apartment”",
+        "number": 84,
+        "image": "Ari-Lennox-New-Apartment.jpg",
+        "song": {
+            "artist": "Ari Lennox",
+            "title": "New Apartment"
+        },
+        "youtube": {
+            "id": "XJfEIWLXeoA",
+            "title": "Ari Lennox – New Apartment (Audio)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/XJfEIWLXeoA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de699ff9eef880008cd1151/master/w_1600%2Cc_limit/Kasper-Marott-Dr%2525C3%2525B8mmen-om-%2525C3%252598.jpg",
+        "name": "Kasper Marott: “Drømmen om Ø (Forever Mix ’19)”",
+        "number": 83,
+        "image": "Kasper-Marott-Drmmen-om-.jpg",
+        "song": {
+            "artist": "Kasper Marott",
+            "title": "Drømmen om Ø (Forever Mix ’19)"
+        },
+        "youtube": {
+            "id": "9aH1nu1zd68",
+            "title": "Kasper Marott - Drømmen om Ø (Forever mix '19) Kulør 002",
+            "image": {
+                "url": "https://i.ytimg.com/vi/9aH1nu1zd68/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de69aba238c6f0008bc0d55/master/w_1600%2Cc_limit/Black-Belt-Eagle-Scout-At-the-Party.jpg",
+        "name": "Black Belt Eagle Scout: “At the Party”",
+        "number": 82,
+        "image": "Black-Belt-Eagle-Scout-At-the-Party.jpg",
+        "song": {
+            "artist": "Black Belt Eagle Scout",
+            "title": "At the Party"
+        },
+        "youtube": {
+            "id": "gk3FLRe4tAM",
+            "title": "Black Belt Eagle Scout - At the Party",
+            "image": {
+                "url": "https://i.ytimg.com/vi/gk3FLRe4tAM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de69b249eef880008cd1153/master/w_1600%2Cc_limit/Young-Thug-Whats-the-Move.jpg",
+        "name": "Young Thug: “What’s the Move” [ft. Lil Uzi Vert]",
+        "number": 81,
+        "image": "Young-Thug-Whats-the-Move.jpg",
+        "song": {
+            "artist": "Young Thug",
+            "title": "What’s the Move” [ft. Lil Uzi Vert"
+        },
+        "youtube": {
+            "id": "L32ZHlOqqGY",
+            "title": "Young Thug - What's The Move ft. Lil Uzi Vert [Official Video]",
+            "image": {
+                "url": "https://i.ytimg.com/vi/L32ZHlOqqGY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de69c9e238c6f0008bc0d57/master/w_1600%2Cc_limit/black-midi-bmbmbm.jpg",
+        "name": "black midi: “bmbmbm”",
+        "number": 80,
+        "image": "black-midi-bmbmbm.jpg",
+        "song": {
+            "artist": "black midi",
+            "title": "bmbmbm"
+        },
+        "youtube": {
+            "id": "E8BI3Bbpgdk",
+            "title": "black midi - bmbmbm (Live on KEXP)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/E8BI3Bbpgdk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6b71d9669180008bb6461/master/w_1600%2Cc_limit/Vagabon-Flood.jpg",
+        "name": "Vagabon: “Flood”",
+        "number": 79,
+        "image": "Vagabon-Flood.jpg",
+        "song": {
+            "artist": "Vagabon",
+            "title": "Flood"
+        },
+        "youtube": {
+            "id": "De_e_TgsXjE",
+            "title": "Vagabon - Flood (Official Audio)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/De_e_TgsXjE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6b948238c6f0008bc0d8d/master/w_1600%2Cc_limit/2-Chainz-NCAA.jpg",
+        "name": "2 Chainz: “NCAA”",
+        "number": 78,
+        "image": "2-Chainz-NCAA.jpg",
+        "song": {
+            "artist": "2 Chainz",
+            "title": "NCAA"
+        },
+        "youtube": {
+            "id": "Xp_poZEEOww",
+            "title": "2 Chainz - NCAA [LYRICS]",
+            "image": {
+                "url": "https://i.ytimg.com/vi/Xp_poZEEOww/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6be949669180008bb6463/master/w_1600%2Cc_limit/Powder-New-Tribe.jpg",
+        "name": "Powder: “New Tribe”",
+        "number": 77,
+        "image": "Powder-New-Tribe.jpg",
+        "song": {
+            "artist": "Powder",
+            "title": "New Tribe"
+        },
+        "youtube": {
+            "id": "zJE1HoHabMw",
+            "title": "Powder -  New Tribe",
+            "image": {
+                "url": "https://i.ytimg.com/vi/zJE1HoHabMw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6bfd99eef880008cd1189/master/w_1600%2Cc_limit/Empath-Roses-That-Cry.jpg",
+        "name": "Empath: “Roses That Cry”",
+        "number": 76,
+        "image": "Empath-Roses-That-Cry.jpg",
+        "song": {
+            "artist": "Empath",
+            "title": "Roses That Cry"
+        },
+        "youtube": {
+            "id": "WUdz-So6Myo",
+            "title": "Empath - Roses That Cry (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/WUdz-So6Myo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6c0ba9eef880008cd118b/master/w_1600%2Cc_limit/Oso-Oso-One-Sick-Plan.jpg",
+        "name": "Oso Oso: “One Sick Plan”",
+        "number": 75,
+        "image": "Oso-Oso-One-Sick-Plan.jpg",
+        "song": {
+            "artist": "Oso Oso",
+            "title": "One Sick Plan"
+        },
+        "youtube": {
+            "id": "cWB8ttm9ZRo",
+            "title": "oso oso - \"one sick plan\" (official audio)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/cWB8ttm9ZRo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de9431f238c6f0008bc0f02/master/w_1600%2Cc_limit/Faye-Webster-Room-Temp.jpg",
+        "name": "Faye Webster: “Room Temperature”",
+        "number": 74,
+        "image": "Faye-Webster-Room-Temp.jpg",
+        "song": {
+            "artist": "Faye Webster",
+            "title": "Room Temperature"
+        },
+        "youtube": {
+            "id": "nMybE4Ge6hM",
+            "title": "Faye Webster - Room Temperature",
+            "image": {
+                "url": "https://i.ytimg.com/vi/nMybE4Ge6hM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6c1414072b60008774458/master/w_1600%2Cc_limit/Maxo-Kream-Meet-Again.jpg",
+        "name": "Maxo Kream: “Meet Again”",
+        "number": 73,
+        "image": "Maxo-Kream-Meet-Again.jpg",
+        "song": {
+            "artist": "Maxo Kream",
+            "title": "Meet Again"
+        },
+        "youtube": {
+            "id": "VpmuI_kyEeQ",
+            "title": "Maxo Kream - Meet Again (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/VpmuI_kyEeQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6c1929eef880008cd118d/master/w_1600%2Cc_limit/Rema-Dumebi.jpg",
+        "name": "Rema: “Dumebi”",
+        "number": 72,
+        "image": "Rema-Dumebi.jpg",
+        "song": {
+            "artist": "Rema",
+            "title": "Dumebi"
+        },
+        "youtube": {
+            "id": "zUU1bIWpH5c",
+            "title": "Rema - Dumebi ( Official Music Video )",
+            "image": {
+                "url": "https://i.ytimg.com/vi/zUU1bIWpH5c/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6c382238c6f0008bc0d8f/master/w_1600%2Cc_limit/Lil-Tecca-Ransom.jpg",
+        "name": "Lil Tecca: “Ransom”",
+        "number": 71,
+        "image": "Lil-Tecca-Ransom.jpg",
+        "song": {
+            "artist": "Lil Tecca",
+            "title": "Ransom"
+        },
+        "youtube": {
+            "id": "1XzY2ij_vL4",
+            "title": "Lil Tecca - Ransom (Dir. by @_ColeBennett_)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/1XzY2ij_vL4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6c4f94072b6000877445a/master/w_1600%2Cc_limit/Sleater-Kinney-Hurry-on-Home.jpg",
+        "name": "Sleater-Kinney: “Hurry on Home”",
+        "number": 70,
+        "image": "Sleater-Kinney-Hurry-on-Home.jpg",
+        "song": {
+            "artist": "Sleater-Kinney",
+            "title": "Hurry on Home"
+        },
+        "youtube": {
+            "id": "qs--LdnI5jk",
+            "title": "Sleater Kinney — Hurry On Home",
+            "image": {
+                "url": "https://i.ytimg.com/vi/qs--LdnI5jk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6c54f4072b6000877445c/master/w_1600%2Cc_limit/Caribou-Home.jpg",
+        "name": "Caribou: “Home”",
+        "number": 69,
+        "image": "Caribou-Home.jpg",
+        "song": {
+            "artist": "Caribou",
+            "title": "Home"
+        },
+        "youtube": {
+            "id": "LX30jRKcmbw",
+            "title": "CARIBOU - Home",
+            "image": {
+                "url": "https://i.ytimg.com/vi/LX30jRKcmbw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6c5fa4072b6000877445e/master/w_1600%2Cc_limit/Georgia-About-Work-the-Dancefloor.jpg",
+        "name": "Georgia: “About Work the Dancefloor”",
+        "number": 68,
+        "image": "Georgia-About-Work-the-Dancefloor.jpg",
+        "song": {
+            "artist": "Georgia",
+            "title": "About Work the Dancefloor"
+        },
+        "youtube": {
+            "id": "A4Y9V07wry4",
+            "title": "Georgia - About Work The Dancefloor (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/A4Y9V07wry4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6c6d19eef880008cd118f/master/w_1600%2Cc_limit/FKA-twigs-sad-day.jpg",
+        "name": "FKA twigs: “sad day”",
+        "number": 67,
+        "image": "FKA-twigs-sad-day.jpg",
+        "song": {
+            "artist": "FKA twigs",
+            "title": "sad day"
+        },
+        "youtube": {
+            "id": "gnmDMAVdaPc",
+            "title": "FKA twigs - sad day",
+            "image": {
+                "url": "https://i.ytimg.com/vi/gnmDMAVdaPc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6c7394072b60008774460/master/w_1600%2Cc_limit/Koffee-Throne.jpg",
+        "name": "Koffee: “Throne”",
+        "number": 66,
+        "image": "Koffee-Throne.jpg",
+        "song": {
+            "artist": "Koffee",
+            "title": "Throne"
+        },
+        "youtube": {
+            "id": "5V4ZDNV4si0",
+            "title": "Koffee - Throne (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/5V4ZDNV4si0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6c7794072b60008774462/master/w_1600%2Cc_limit/Octo-Octa-I-Need-You.jpg",
+        "name": "Octo Octa: “I Need You”",
+        "number": 65,
+        "image": "Octo-Octa-I-Need-You.jpg",
+        "song": {
+            "artist": "Octo Octa",
+            "title": "I Need You"
+        },
+        "youtube": {
+            "id": "-01X6v5QjPg",
+            "title": "Octo Octa - 'I Need You'",
+            "image": {
+                "url": "https://i.ytimg.com/vi/-01X6v5QjPg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6c7ef93c34b0008130ac1/master/w_1600%2Cc_limit/Charly-Bliss-Capacity.jpg",
+        "name": "Charly Bliss: “Capacity”",
+        "number": 64,
+        "image": "Charly-Bliss-Capacity.jpg",
+        "song": {
+            "artist": "Charly Bliss",
+            "title": "Capacity"
+        },
+        "youtube": {
+            "id": "Z3yayHHmUxs",
+            "title": "Charly Bliss - Capacity [Official Music Video]",
+            "image": {
+                "url": "https://i.ytimg.com/vi/Z3yayHHmUxs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6c856238c6f0008bc0d91/master/w_1600%2Cc_limit/Polo-G-Pop-Out.jpeg",
+        "name": "Polo G: “Pop Out” [ft. Lil Tjay]",
+        "number": 63,
+        "image": "Polo-G-Pop-Out.jpeg",
+        "song": {
+            "artist": "Polo G",
+            "title": "Pop Out” [ft. Lil Tjay"
+        },
+        "youtube": {
+            "id": "g-uW3I_AtDE",
+            "title": "Polo G Feat. Lil Tjay - Pop Out 🎥By. Ryan Lynch Prod. By JDONTHATRACK  & Iceberg",
+            "image": {
+                "url": "https://i.ytimg.com/vi/g-uW3I_AtDE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6cf73b517ce000899ef31/master/w_1600%2Cc_limit/Jessica-Pratt-Aeroplane.jpg",
+        "name": "Jessica Pratt: “Aeroplane”",
+        "number": 62,
+        "image": "Jessica-Pratt-Aeroplane.jpg",
+        "song": {
+            "artist": "Jessica Pratt",
+            "title": "Aeroplane"
+        },
+        "youtube": {
+            "id": "fdX-1S2Ku-U",
+            "title": "Jessica Pratt - Aeroplane (Music Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/fdX-1S2Ku-U/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6ca7c4072b60008774464/master/w_1600%2Cc_limit/100-gecs-money-machine.jpg",
+        "name": "100 gecs: “money machine”",
+        "number": 61,
+        "image": "100-gecs-money-machine.jpg",
+        "song": {
+            "artist": "100 gecs",
+            "title": "money machine"
+        },
+        "youtube": {
+            "id": "z97qLNXeAMQ",
+            "title": "100 gecs - money machine (Official Music Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/z97qLNXeAMQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6cc0db9e6f50008a3054c/master/w_1600%2Cc_limit/Mount-Eerie-Love-Without-Possession.jpg",
+        "name": "Mount Eerie: “Love Without Possession”",
+        "number": 60,
+        "image": "Mount-Eerie-Love-Without-Possession.jpg",
+        "song": {
+            "artist": "Mount Eerie",
+            "title": "Love Without Possession"
+        },
+        "youtube": {
+            "id": "nhKoeYiGTWs",
+            "title": "Mount Eerie - Love Without Possession (with Julie Doiron) official audio",
+            "image": {
+                "url": "https://i.ytimg.com/vi/nhKoeYiGTWs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6cdff4072b60008774466/master/w_1600%2Cc_limit/Chai-Fashionista.jpg",
+        "name": "Chai: “Fashionista”",
+        "number": 59,
+        "image": "Chai-Fashionista.jpg",
+        "song": {
+            "artist": "Chai",
+            "title": "Fashionista"
+        },
+        "youtube": {
+            "id": "xFHYXVuhMKw",
+            "title": "Fashionista",
+            "image": {
+                "url": "https://i.ytimg.com/vi/xFHYXVuhMKw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6ce8f4072b60008774468/master/w_1600%2Cc_limit/Burna-Boy-Anybody.jpg",
+        "name": "Burna Boy: “Anybody”",
+        "number": 58,
+        "image": "Burna-Boy-Anybody.jpg",
+        "song": {
+            "artist": "Burna Boy",
+            "title": "Anybody"
+        },
+        "youtube": {
+            "id": "so4dgTRaWFk",
+            "title": "Burna Boy - Anybody (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/so4dgTRaWFk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6cf4f238c6f0008bc0d93/master/w_1600%2Cc_limit/Haim-Summer-Girl.jpg",
+        "name": "Haim: “Summer Girl”",
+        "number": 57,
+        "image": "Haim-Summer-Girl.jpg",
+        "song": {
+            "artist": "Haim",
+            "title": "Summer Girl"
+        },
+        "youtube": {
+            "id": "ZjuA_o6Jzyo",
+            "title": "HAIM - Summer Girl",
+            "image": {
+                "url": "https://i.ytimg.com/vi/ZjuA_o6Jzyo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6d0234072b6000877446a/master/w_1600%2Cc_limit/Joy-Overmono-Bromley.jpg",
+        "name": "Joy Overmono: “Bromley”",
+        "number": 56,
+        "image": "Joy-Overmono-Bromley.jpg",
+        "song": {
+            "artist": "Joy Overmono",
+            "title": "Bromley"
+        },
+        "youtube": {
+            "id": "ThaTKXGXHKE",
+            "title": "Joy Orbison x Overmono - Bromley",
+            "image": {
+                "url": "https://i.ytimg.com/vi/ThaTKXGXHKE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6d0d4bce2c50008b5f2f1/master/w_1600%2Cc_limit/Toro-y-Moi-Freelance.jpg",
+        "name": "Toro y Moi: “Freelance”",
+        "number": 55,
+        "image": "Toro-y-Moi-Freelance.jpg",
+        "song": {
+            "artist": "Toro y Moi",
+            "title": "Freelance"
+        },
+        "youtube": {
+            "id": "Jm6hDWBZXc4",
+            "title": "Toro y Moi - \"Freelance\" (Official Music Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/Jm6hDWBZXc4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6d1469eef880008cd11c5/master/w_1600%2Cc_limit/Stormzy-Vossi-Bop.jpg",
+        "name": "Stormzy: “Vossi Bop”",
+        "number": 54,
+        "image": "Stormzy-Vossi-Bop.jpg",
+        "song": {
+            "artist": "Stormzy",
+            "title": "Vossi Bop"
+        },
+        "youtube": {
+            "id": "9ClYy0MxsU0",
+            "title": "STORMZY - VOSSI BOP",
+            "image": {
+                "url": "https://i.ytimg.com/vi/9ClYy0MxsU0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6d2069eef880008cd11c7/master/w_1600%2Cc_limit/Lizzo-Juice.jpg",
+        "name": "Lizzo: “Juice”",
+        "number": 53,
+        "image": "Lizzo-Juice.jpg",
+        "song": {
+            "artist": "Lizzo",
+            "title": "Juice"
+        },
+        "youtube": {
+            "id": "XaCrQL_8eMY",
+            "title": "Lizzo - Juice (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/XaCrQL_8eMY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6d279238c6f0008bc0d95/master/w_1600%2Cc_limit/Jenny-Lewis-Wasted-Youth.jpg",
+        "name": "Jenny Lewis: “Wasted Youth”",
+        "number": 52,
+        "image": "Jenny-Lewis-Wasted-Youth.jpg",
+        "song": {
+            "artist": "Jenny Lewis",
+            "title": "Wasted Youth"
+        },
+        "youtube": {
+            "id": "ZY8bdQRpmGU",
+            "title": "Jenny Lewis - Wasted Youth (Official Audio)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/ZY8bdQRpmGU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6d3109eef880008cd11c9/master/w_1600%2Cc_limit/Peggy-Gou-Starry-Night.jpg",
+        "name": "Peggy Gou: “Starry Night”",
+        "number": 51,
+        "image": "Peggy-Gou-Starry-Night.jpg",
+        "song": {
+            "artist": "Peggy Gou",
+            "title": "Starry Night"
+        },
+        "youtube": {
+            "id": "kD0en6bbJPI",
+            "title": "Peggy Gou - Starry Night (Official Music Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/kD0en6bbJPI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6d3759669180008bb6465/master/w_1600%2Cc_limit/Neon-Indian-Toyota-Man.jpg",
+        "name": "Neon Indian: “Toyota Man”",
+        "number": 50,
+        "image": "Neon-Indian-Toyota-Man.jpg",
+        "song": {
+            "artist": "Neon Indian",
+            "title": "Toyota Man"
+        },
+        "youtube": {
+            "id": "-jvkHxmeNXc",
+            "title": "Neon Indian - Toyota Man (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/-jvkHxmeNXc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6d43b9669180008bb6467/master/w_1600%2Cc_limit/Teejayx6-Dark-Web.jpg",
+        "name": "Teejayx6: “Dark Web”",
+        "number": 49,
+        "image": "Teejayx6-Dark-Web.jpg",
+        "song": {
+            "artist": "Teejayx6",
+            "title": "Dark Web"
+        },
+        "youtube": {
+            "id": "ubs9b-ssuuM",
+            "title": "Teejayx6 - Dark Web (Official Music Video) Shot By @Swizzimatic",
+            "image": {
+                "url": "https://i.ytimg.com/vi/ubs9b-ssuuM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6d697b517ce000899ef33/master/w_1600%2Cc_limit/Jamila-Woods-ZORA.jpg",
+        "name": "Jamila Woods: “ZORA”",
+        "number": 48,
+        "image": "Jamila-Woods-ZORA.jpg",
+        "song": {
+            "artist": "Jamila Woods",
+            "title": "ZORA"
+        },
+        "youtube": {
+            "id": "NO0_3XwBb5s",
+            "title": "Jamila Woods - ZORA",
+            "image": {
+                "url": "https://i.ytimg.com/vi/NO0_3XwBb5s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6d7469eef880008cd11cb/master/w_1600%2Cc_limit/Caroline-Polachek-Door.jpg",
+        "name": "Caroline Polachek: “Door”",
+        "number": 47,
+        "image": "Caroline-Polachek-Door.jpg",
+        "song": {
+            "artist": "Caroline Polachek",
+            "title": "Door"
+        },
+        "youtube": {
+            "id": "7w6R4I7I3wA",
+            "title": "Caroline Polachek - Door (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/7w6R4I7I3wA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6daa49eef880008cd11cd/master/w_1600%2Cc_limit/Perfume-Genius-Eye-in-the-Wall.jpg",
+        "name": "Perfume Genius: “Eye in the Wall”",
+        "number": 46,
+        "image": "Perfume-Genius-Eye-in-the-Wall.jpg",
+        "song": {
+            "artist": "Perfume Genius",
+            "title": "Eye in the Wall"
+        },
+        "youtube": {
+            "id": "oply9BPy6nU",
+            "title": "Perfume Genius - \"Eye in the Wall\" (Official Audio)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/oply9BPy6nU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6daef238c6f0008bc0d97/master/w_1600%2Cc_limit/Ariana-Grande-NASA.jpg",
+        "name": "Ariana Grande: “NASA”",
+        "number": 45,
+        "image": "Ariana-Grande-NASA.jpg",
+        "song": {
+            "artist": "Ariana Grande",
+            "title": "NASA"
+        },
+        "youtube": {
+            "id": "CwNvN4XTWJI",
+            "title": "ariana grande // nasa (español)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/CwNvN4XTWJI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6dbea4072b6000877446e/master/w_1600%2Cc_limit/Denzel-Curry-Ricky.jpeg",
+        "name": "Denzel Curry: “RICKY”",
+        "number": 44,
+        "image": "Denzel-Curry-Ricky.jpeg",
+        "song": {
+            "artist": "Denzel Curry",
+            "title": "RICKY"
+        },
+        "youtube": {
+            "id": "3WHm6tfvKlk",
+            "title": "Denzel Curry - RICKY",
+            "image": {
+                "url": "https://i.ytimg.com/vi/3WHm6tfvKlk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6dc4c9eef880008cd11cf/master/w_1600%2Cc_limit/Pissy-Pamper.png",
+        "name": "Young Nudy / Playboi Carti: “Pissy Pamper”",
+        "number": 43,
+        "image": "Pissy-Pamper.png",
+        "song": {
+            "artist": "Young Nudy / Playboi Carti",
+            "title": "Pissy Pamper"
+        },
+        "youtube": {
+            "id": "K7bij05NTxc",
+            "title": "playboi carti x young nudy- kid cudi (visual/concept) video by 🆅🅱🅷🅼",
+            "image": {
+                "url": "https://i.ytimg.com/vi/K7bij05NTxc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6dc89b517ce000899ef36/master/w_1600%2Cc_limit/Brittany-Howard-Stay-High.jpg",
+        "name": "Brittany Howard: “Stay High”",
+        "number": 42,
+        "image": "Brittany-Howard-Stay-High.jpg",
+        "song": {
+            "artist": "Brittany Howard",
+            "title": "Stay High"
+        },
+        "youtube": {
+            "id": "CfizQsGWOxI",
+            "title": "Brittany Howard - Stay High (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/CfizQsGWOxI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6dd37238c6f0008bc0d99/master/w_1600%2Cc_limit/Pop-Smoke-Welcome-to-the-Party.jpg",
+        "name": "Pop Smoke: “Welcome to the Party”",
+        "number": 41,
+        "image": "Pop-Smoke-Welcome-to-the-Party.jpg",
+        "song": {
+            "artist": "Pop Smoke",
+            "title": "Welcome to the Party"
+        },
+        "youtube": {
+            "id": "usu0XY4QNB0",
+            "title": "POP SMOKE - WELCOME TO THE PARTY [SHOT BY GoddyGoddy]",
+            "image": {
+                "url": "https://i.ytimg.com/vi/usu0XY4QNB0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6de8bb517ce000899ef39/master/w_1600%2Cc_limit/Nilu%2525CC%252588fer-Yanya-In-Your-Head.jpg",
+        "name": "Nilüfer Yanya: “In Your Head”",
+        "number": 40,
+        "image": "Nilufer-Yanya-In-Your-Head.jpg",
+        "song": {
+            "artist": "Nilüfer Yanya",
+            "title": "In Your Head"
+        },
+        "youtube": {
+            "id": "fsxf541UI-8",
+            "title": "Nilüfer Yanya - In Your Head (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/fsxf541UI-8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6e0269669180008bb6469/master/w_1600%2Cc_limit/Bill-Callahan-747.jpg",
+        "name": "Bill Callahan: “747”",
+        "number": 39,
+        "image": "Bill-Callahan-747.jpg",
+        "song": {
+            "artist": "Bill Callahan",
+            "title": "747"
+        },
+        "youtube": {
+            "id": "u5wEVYPPoas",
+            "title": "Bill Callahan 747 Live - August 30th, 2019.  Crowley Theater, Marfa TX",
+            "image": {
+                "url": "https://i.ytimg.com/vi/u5wEVYPPoas/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6e0d0238c6f0008bc0d9b/master/w_1600%2Cc_limit/Bruce-Springsteen-Hello-Sunshine.jpg",
+        "name": "Bruce Springsteen: “Hello Sunshine”",
+        "number": 38,
+        "image": "Bruce-Springsteen-Hello-Sunshine.jpg",
+        "song": {
+            "artist": "Bruce Springsteen",
+            "title": "Hello Sunshine"
+        },
+        "youtube": {
+            "id": "icJjlg5e6l8",
+            "title": "Bruce Springsteen - Hello Sunshine (Lyric Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/icJjlg5e6l8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6e175b9e6f50008a30550/master/w_1600%2Cc_limit/Four-Tet-Only-Human.jpeg",
+        "name": "Four Tet: “Only Human”",
+        "number": 37,
+        "image": "Four-Tet-Only-Human.jpeg",
+        "song": {
+            "artist": "Four Tet",
+            "title": "Only Human"
+        },
+        "youtube": {
+            "id": "peHvj5TedFI",
+            "title": "KH aka Four Tet - Only Human [Ministry Of Sound]",
+            "image": {
+                "url": "https://i.ytimg.com/vi/peHvj5TedFI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6e1db238c6f0008bc0d9d/master/w_1600%2Cc_limit/Deerhunter-What-Happens-to-People.jpg",
+        "name": "Deerhunter: “What Happens to People?”",
+        "number": 36,
+        "image": "Deerhunter-What-Happens-to-People.jpg",
+        "song": {
+            "artist": "Deerhunter",
+            "title": "What Happens to People?"
+        },
+        "youtube": {
+            "id": "uQCcUUOYCr8",
+            "title": "Deerhunter - What happens to people @ Primavera Sound 18",
+            "image": {
+                "url": "https://i.ytimg.com/vi/uQCcUUOYCr8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6e2929eef880008cd11d4/master/w_1600%2Cc_limit/The-1975-People.jpg",
+        "name": "The 1975: “People”",
+        "number": 35,
+        "image": "The-1975-People.jpg",
+        "song": {
+            "artist": "The 1975",
+            "title": "People"
+        },
+        "youtube": {
+            "id": "EKdPxXWm7Jg",
+            "title": "The 1975 - People (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/EKdPxXWm7Jg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6e2ee4072b60008774471/master/w_1600%2Cc_limit/Mark-Ronson-True-Blue.jpg",
+        "name": "Mark Ronson: “True Blue” [ft. Angel Olsen]",
+        "number": 34,
+        "image": "Mark-Ronson-True-Blue.jpg",
+        "song": {
+            "artist": "Mark Ronson",
+            "title": "True Blue” [ft. Angel Olsen"
+        },
+        "youtube": {
+            "id": "FuJ2yitJI_U",
+            "title": "Mark Ronson - True Blue (Audio) ft. Angel Olsen",
+            "image": {
+                "url": "https://i.ytimg.com/vi/FuJ2yitJI_U/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6e3429669180008bb646b/master/w_1600%2Cc_limit/Aldous-Harding-The-Barrel.jpg",
+        "name": "Aldous Harding: “The Barrel”",
+        "number": 33,
+        "image": "Aldous-Harding-The-Barrel.jpg",
+        "song": {
+            "artist": "Aldous Harding",
+            "title": "The Barrel"
+        },
+        "youtube": {
+            "id": "QyZeJr5ppm8",
+            "title": "Aldous Harding - The Barrel (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/QyZeJr5ppm8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6e37e9669180008bb646d/master/w_1600%2Cc_limit/Big-Thief-Cattails.jpg",
+        "name": "Big Thief: “Cattails”",
+        "number": 32,
+        "image": "Big-Thief-Cattails.jpg",
+        "song": {
+            "artist": "Big Thief",
+            "title": "Cattails"
+        },
+        "youtube": {
+            "id": "dUR-Ad8QcmA",
+            "title": "Big Thief - Cattails (Official Audio)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/dUR-Ad8QcmA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6e3c29eef880008cd11d6/master/w_1600%2Cc_limit/Vampire-Weekend-Sympathy.jpg",
+        "name": "Vampire Weekend: “Sympathy”",
+        "number": 31,
+        "image": "Vampire-Weekend-Sympathy.jpg",
+        "song": {
+            "artist": "Vampire Weekend",
+            "title": "Sympathy"
+        },
+        "youtube": {
+            "id": "P2L0d4uUp24",
+            "title": "Vampire Weekend - Sympathy (Official Audio)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/P2L0d4uUp24/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de6e63fb517ce000899ef3f/master/w_1600%2Cc_limit/Rico-Nasty-Time-Flies.jpg",
+        "name": "Rico Nasty: “Time Flies”",
+        "number": 30,
+        "image": "Rico-Nasty-Time-Flies.jpg",
+        "song": {
+            "artist": "Rico Nasty",
+            "title": "Time Flies"
+        },
+        "youtube": {
+            "id": "oIYgNhz2ty8",
+            "title": "Rico Nasty - Time Flies [Official Audio]",
+            "image": {
+                "url": "https://i.ytimg.com/vi/oIYgNhz2ty8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7ce209669180008bb6517/master/w_1600%2Cc_limit/Cate-Le-Bon-Daylight-Matters.jpg",
+        "name": "Cate Le Bon: “Daylight Matters”",
+        "number": 29,
+        "image": "Cate-Le-Bon-Daylight-Matters.jpg",
+        "song": {
+            "artist": "Cate Le Bon",
+            "title": "Daylight Matters"
+        },
+        "youtube": {
+            "id": "WjduOTMn9dw",
+            "title": "Cate Le Bon - Daylight Matters (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/WjduOTMn9dw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7d7379eef880008cd12e1/master/w_1600%2Cc_limit/Weyes-Blood-Andromeda.jpg",
+        "name": "Weyes Blood: “Andromeda”",
+        "number": 28,
+        "image": "Weyes-Blood-Andromeda.jpg",
+        "song": {
+            "artist": "Weyes Blood",
+            "title": "Andromeda"
+        },
+        "youtube": {
+            "id": "StSEXZcwOB4",
+            "title": "Weyes Blood - Andromeda",
+            "image": {
+                "url": "https://i.ytimg.com/vi/StSEXZcwOB4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7d78eb9e6f50008a30626/master/w_1600%2Cc_limit/Bon-Iver-Hey-Ma.jpg",
+        "name": "Bon Iver: “Hey, Ma”",
+        "number": 27,
+        "image": "Bon-Iver-Hey-Ma.jpg",
+        "song": {
+            "artist": "Bon Iver",
+            "title": "Hey, Ma"
+        },
+        "youtube": {
+            "id": "HDAKS18Gv1U",
+            "title": "Bon Iver - Hey, Ma - Official Lyric Video",
+            "image": {
+                "url": "https://i.ytimg.com/vi/HDAKS18Gv1U/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7d7dd9669180008bb6519/master/w_1600%2Cc_limit/Danny-Brown-Dirty-Laundry.jpg",
+        "name": "Danny Brown: “Dirty Laundry”",
+        "number": 26,
+        "image": "Danny-Brown-Dirty-Laundry.jpg",
+        "song": {
+            "artist": "Danny Brown",
+            "title": "Dirty Laundry"
+        },
+        "youtube": {
+            "id": "1okqvhq7ZaI",
+            "title": "Danny Brown - Dirty Laundry",
+            "image": {
+                "url": "https://i.ytimg.com/vi/1okqvhq7ZaI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7d83e9eef880008cd12e3/master/w_1600%2Cc_limit/Jenny-Hval-Ashes-to-Ashes.jpg",
+        "name": "Jenny Hval: “Ashes to Ashes”",
+        "number": 25,
+        "image": "Jenny-Hval-Ashes-to-Ashes.jpg",
+        "song": {
+            "artist": "Jenny Hval",
+            "title": "Ashes to Ashes"
+        },
+        "youtube": {
+            "id": "7Bq5s2oRp24",
+            "title": "Jenny Hval - Ashes to Ashes (Official Audio)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/7Bq5s2oRp24/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7d8a64072b600087744e1/master/w_1600%2Cc_limit/Angel-Olsen-All-Mirrors.jpg",
+        "name": "Angel Olsen: “All Mirrors”",
+        "number": 24,
+        "image": "Angel-Olsen-All-Mirrors.jpg",
+        "song": {
+            "artist": "Angel Olsen",
+            "title": "All Mirrors"
+        },
+        "youtube": {
+            "id": "Jjt698Zv5jQ",
+            "title": "Angel Olsen - All Mirrors (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/Jjt698Zv5jQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7d90b238c6f0008bc0e13/master/w_1600%2Cc_limit/Helado-Negro-Running.jpg",
+        "name": "Helado Negro: “Running”",
+        "number": 23,
+        "image": "Helado-Negro-Running.jpg",
+        "song": {
+            "artist": "Helado Negro",
+            "title": "Running"
+        },
+        "youtube": {
+            "id": "u4mof-W6ggI",
+            "title": "Helado Negro - Running",
+            "image": {
+                "url": "https://i.ytimg.com/vi/u4mof-W6ggI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7d9b34072b600087744e3/master/w_1600%2Cc_limit/Lana-Del-Rey-hope-is-a-dangerous-thing.jpg",
+        "name": "Lana Del Rey: “hope is a dangerous thing for a woman like me to have - but i have it”",
+        "number": 22,
+        "image": "Lana-Del-Rey-hope-is-a-dangerous-thing.jpg",
+        "song": {
+            "artist": "Lana Del Rey",
+            "title": "hope is a dangerous thing for a woman like me to have - but i have it"
+        },
+        "youtube": {
+            "id": "ni38ouZo0vg",
+            "title": "Lana del Rey - hope is a dangerous thing for a woman like me to have - but i have it (español)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/ni38ouZo0vg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7da069669180008bb651b/master/w_1600%2Cc_limit/Sandy-Alex-G-Gretel.jpg",
+        "name": "(Sandy) Alex G: “Gretel”",
+        "number": 21,
+        "image": "Sandy-Alex-G-Gretel.jpg",
+        "song": {
+            "artist": "(Sandy) Alex G",
+            "title": "Gretel"
+        },
+        "youtube": {
+            "id": "HcO-NPtj5BI",
+            "title": "(Sandy) Alex G - Gretel (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/HcO-NPtj5BI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7da90238c6f0008bc0e15/master/w_1600%2Cc_limit/DaBaby-Suge.jpg",
+        "name": "DaBaby: “Suge (Yea Yea)”",
+        "number": 20,
+        "image": "DaBaby-Suge.jpg",
+        "song": {
+            "artist": "DaBaby",
+            "title": "Suge (Yea Yea)"
+        },
+        "youtube": {
+            "id": "KvuQNNVrbtM",
+            "title": "Dababy - Suge (Yea Yea) Official Music Video",
+            "image": {
+                "url": "https://i.ytimg.com/vi/KvuQNNVrbtM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7dad1b9e6f50008a30628/master/w_1600%2Cc_limit/Jai-Paul-He.jpg",
+        "name": "Jai Paul: “He”",
+        "number": 19,
+        "image": "Jai-Paul-He.jpg",
+        "song": {
+            "artist": "Jai Paul",
+            "title": "He"
+        },
+        "youtube": {
+            "id": "f5DSbyl7WYs",
+            "title": "Jai Paul - He",
+            "image": {
+                "url": "https://i.ytimg.com/vi/f5DSbyl7WYs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5dee8b6bcade48000818ed81/master/w_1600%2Cc_limit/Nas-X.jpg",
+        "name": "Lil Nas X: “Old Town Road”",
+        "number": 18,
+        "image": "Nas-X.jpg",
+        "song": {
+            "artist": "Lil Nas X",
+            "title": "Old Town Road"
+        },
+        "youtube": {
+            "id": "r7qovpFAGrQ",
+            "title": "Lil Nas X - Old Town Road (Official Video) ft. Billy Ray Cyrus",
+            "image": {
+                "url": "https://i.ytimg.com/vi/r7qovpFAGrQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7dbe84072b600087744e5/master/w_1600%2Cc_limit/Purple-Mountains-Snow-Is-Falling.jpg",
+        "name": "Purple Mountains: “Snow Is Falling in Manhattan”",
+        "number": 17,
+        "image": "Purple-Mountains-Snow-Is-Falling.jpg",
+        "song": {
+            "artist": "Purple Mountains",
+            "title": "Snow Is Falling in Manhattan"
+        },
+        "youtube": {
+            "id": "50227UHWULg",
+            "title": "Snow is Falling in Manhattan",
+            "image": {
+                "url": "https://i.ytimg.com/vi/50227UHWULg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7dc3f4072b600087744e7/master/w_1600%2Cc_limit/Mannequin-Pussy-Drunk-II.jpg",
+        "name": "Mannequin Pussy: “Drunk II”",
+        "number": 16,
+        "image": "Mannequin-Pussy-Drunk-II.jpg",
+        "song": {
+            "artist": "Mannequin Pussy",
+            "title": "Drunk II"
+        },
+        "youtube": {
+            "id": "IZ0Xjl5KusI",
+            "title": "Mannequin Pussy - \"Drunk II\"",
+            "image": {
+                "url": "https://i.ytimg.com/vi/IZ0Xjl5KusI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7dd0d238c6f0008bc0e17/master/w_1600%2Cc_limit/Lil-Uzi-Vert-Free-Uzi.jpeg",
+        "name": "Lil Uzi Vert: “Free Uzi”",
+        "number": 15,
+        "image": "Lil-Uzi-Vert-Free-Uzi.jpeg",
+        "song": {
+            "artist": "Lil Uzi Vert",
+            "title": "Free Uzi"
+        },
+        "youtube": {
+            "id": "IVNSRolWnCA",
+            "title": "FREE UZI  - LILUZIVERT ( Shot By Qasquiat ) [OFFICIAL MUSIC VIDEO]",
+            "image": {
+                "url": "https://i.ytimg.com/vi/IVNSRolWnCA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7dda5b9e6f50008a3062c/master/w_1600%2Cc_limit/Normani-Motivation.jpg",
+        "name": "Normani: “Motivation”",
+        "number": 14,
+        "image": "Normani-Motivation.jpg",
+        "song": {
+            "artist": "Normani",
+            "title": "Motivation"
+        },
+        "youtube": {
+            "id": "FKXSh14svlQ",
+            "title": "Normani - Motivation (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/FKXSh14svlQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7d8a64072b600087744e1/master/w_1600%2Cc_limit/Angel-Olsen-All-Mirrors.jpg",
+        "name": "Angel Olsen: “Lark”",
+        "number": 13,
+        "image": "Angel-Olsen-All-Mirrors.jpg",
+        "song": {
+            "artist": "Angel Olsen",
+            "title": "Lark"
+        },
+        "youtube": {
+            "id": "6uaN60k0-zY",
+            "title": "Angel Olsen - Lark",
+            "image": {
+                "url": "https://i.ytimg.com/vi/6uaN60k0-zY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7de28b9e6f50008a3062e/master/w_1600%2Cc_limit/Megan-Thee-Stallion-Cash-Shit.jpg",
+        "name": "Megan Thee Stallion: “Cash Shit” [ft. DaBaby]",
+        "number": 12,
+        "image": "Megan-Thee-Stallion-Cash-Shit.jpg",
+        "song": {
+            "artist": "Megan Thee Stallion",
+            "title": "Cash Shit” [ft. DaBaby"
+        },
+        "youtube": {
+            "id": "2Xe7OAFljOA",
+            "title": "Megan Thee Stallion - Cash Shit ft. Da Baby",
+            "image": {
+                "url": "https://i.ytimg.com/vi/2Xe7OAFljOA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7de65b517ce000899efad/master/w_1600%2Cc_limit/Solange-Binz.jpg",
+        "name": "Solange: “Binz”",
+        "number": 11,
+        "image": "Solange-Binz.jpg",
+        "song": {
+            "artist": "Solange",
+            "title": "Binz"
+        },
+        "youtube": {
+            "id": "83LeK-t-kTw",
+            "title": "Solange - Binz (Official Video)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/83LeK-t-kTw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7dec89669180008bb651d/master/w_1600%2Cc_limit/Billie-Eilish-Bad-Guy.jpg",
+        "name": "Billie Eilish: “bad guy”",
+        "number": 10,
+        "image": "Billie-Eilish-Bad-Guy.jpg",
+        "song": {
+            "artist": "Billie Eilish",
+            "title": "bad guy"
+        },
+        "youtube": {
+            "id": "DyDfgMOUjCI",
+            "title": "Billie Eilish - bad guy",
+            "image": {
+                "url": "https://i.ytimg.com/vi/DyDfgMOUjCI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7df284072b600087744e9/master/w_1600%2Cc_limit/Big-Thief-Not.jpg",
+        "name": "Big Thief: “Not”",
+        "number": 9,
+        "image": "Big-Thief-Not.jpg",
+        "song": {
+            "artist": "Big Thief",
+            "title": "Not"
+        },
+        "youtube": {
+            "id": "UIcVwH47uxQ",
+            "title": "Big Thief -  Not (Official Audio)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/UIcVwH47uxQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7df7eb517ce000899efaf/master/w_1600%2Cc_limit/Rosali%2525CC%252581a-Con-Altura.jpg",
+        "name": "Rosalía / J Balvin: “Con Altura”",
+        "number": 8,
+        "image": "Rosalia-Con-Altura.jpg",
+        "song": {
+            "artist": "Rosalía / J Balvin",
+            "title": "Con Altura"
+        },
+        "youtube": {
+            "id": "p7bfOZek9t4",
+            "title": "ROSALÍA, J Balvin - Con Altura (Official Video) ft. El Guincho",
+            "image": {
+                "url": "https://i.ytimg.com/vi/p7bfOZek9t4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7dfcbb517ce000899efb1/master/w_1600%2Cc_limit/Thom-Yorke-Dawn-Chorus.jpg",
+        "name": "Thom Yorke: “Dawn Chorus”",
+        "number": 7,
+        "image": "Thom-Yorke-Dawn-Chorus.jpg",
+        "song": {
+            "artist": "Thom Yorke",
+            "title": "Dawn Chorus"
+        },
+        "youtube": {
+            "id": "Dv8dy1W1VxY",
+            "title": "thom yorke • dawn chorus ─ sub español • lyrics",
+            "image": {
+                "url": "https://i.ytimg.com/vi/Dv8dy1W1VxY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7dffe238c6f0008bc0e19/master/w_1600%2Cc_limit/Sharon-Van-Etten-Seventeen.jpg",
+        "name": "Sharon Van Etten: “Seventeen”",
+        "number": 6,
+        "image": "Sharon-Van-Etten-Seventeen.jpg",
+        "song": {
+            "artist": "Sharon Van Etten",
+            "title": "Seventeen"
+        },
+        "youtube": {
+            "id": "j7sTHoeH0eA",
+            "title": "Sharon Van Etten - Seventeen",
+            "image": {
+                "url": "https://i.ytimg.com/vi/j7sTHoeH0eA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7e1f94072b600087744eb/master/w_1600%2Cc_limit/Bad-Bunny-Caro.jpg",
+        "name": "Bad Bunny: “Caro”",
+        "number": 5,
+        "image": "Bad-Bunny-Caro.jpg",
+        "song": {
+            "artist": "Bad Bunny",
+            "title": "Caro"
+        },
+        "youtube": {
+            "id": "bg64AFnRnkc",
+            "title": "Caro - Bad Bunny ( Video Oficial )",
+            "image": {
+                "url": "https://i.ytimg.com/vi/bg64AFnRnkc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7e242b9e6f50008a30631/master/w_1600%2Cc_limit/Charli-XCX-Gone.jpg",
+        "name": "Charli XCX / Christine and the Queens: “Gone”",
+        "number": 4,
+        "image": "Charli-XCX-Gone.jpg",
+        "song": {
+            "artist": "Charli XCX / Christine and the Queens",
+            "title": "Gone"
+        },
+        "youtube": {
+            "id": "chSZCtLrgz8",
+            "title": "Charli XCX & Christine and the Queens - Gone [Official Video]",
+            "image": {
+                "url": "https://i.ytimg.com/vi/chSZCtLrgz8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7e278b517ce000899efb4/master/w_1600%2Cc_limit/Clairo-Bags.jpg",
+        "name": "Clairo: “Bags”",
+        "number": 3,
+        "image": "Clairo-Bags.jpg",
+        "song": {
+            "artist": "Clairo",
+            "title": "Bags"
+        },
+        "youtube": {
+            "id": "L9HYJbe9Y18",
+            "title": "Clairo - Bags",
+            "image": {
+                "url": "https://i.ytimg.com/vi/L9HYJbe9Y18/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7e2b8b517ce000899efb6/master/w_1600%2Cc_limit/Lana-Del-Rey-The-Greatest.jpg",
+        "name": "Lana Del Rey: “The Greatest”",
+        "number": 2,
+        "image": "Lana-Del-Rey-The-Greatest.jpg",
+        "song": {
+            "artist": "Lana Del Rey",
+            "title": "The Greatest"
+        },
+        "youtube": {
+            "id": "in7uI2Sq3zE",
+            "title": "Lana Del Rey - The greatest (Lyrics)",
+            "image": {
+                "url": "https://i.ytimg.com/vi/in7uI2Sq3zE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    },
+    {
+        "imageUrl": "https://media.pitchfork.com/photos/5de7e2f9b517ce000899efb8/master/w_1600%2Cc_limit/FKA-twigs-Cellophane.jpg",
+        "name": "FKA twigs: “cellophane”",
+        "number": 1,
+        "image": "FKA-twigs-Cellophane.jpg",
+        "song": {
+            "artist": "FKA twigs",
+            "title": "cellophane"
+        },
+        "youtube": {
+            "id": "YkLjqFpBh84",
+            "title": "FKA twigs - Cellophane",
+            "image": {
+                "url": "https://i.ytimg.com/vi/YkLjqFpBh84/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        }
+    }
+]

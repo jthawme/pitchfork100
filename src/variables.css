@@ -1,0 +1,21 @@
+:root {
+  --color-black: black;
+
+  --color-pink: #ffe9e5;
+  --color-light-blue: #dfecff;
+  --color-dark-blue: #353476;
+  --color-orange: #f2a531;
+  --color-green: #a1e182;
+
+  --size-padding: 32px;
+  --size-gutter: 14px;
+
+  --font-family-headline: "Playfair Display", serif;
+  --font-family-body: "Poppins", sans-serif;
+
+  --font-size-small: 12px;
+  --font-size-normal: 16px;
+  --font-size-large: 24px;
+  --font-size-x-large: 48px;
+  --font-size-xx-large: 56px;
+}

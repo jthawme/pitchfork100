@@ -2,7 +2,7 @@
   import { onMount } from "svelte";
 
   import MusicBar from "./components/MusicBar/MusicBar.svelte";
-  import SongRow from "./components/SongRow/SongRow.svelte";
+  import SongRow, { scrollToRow } from "./components/SongRow/SongRow.svelte";
   import KeyBindings from "./components/KeyBindings.svelte";
 
   import { songs, currentIndex, playing } from "./store/current.js";
@@ -17,10 +17,26 @@
     currentIndex.set(idx);
   }
 
+  let idleTimer;
+
+  function idleChecker(e) {
+    clearTimeout(idleTimer);
+    idleTimer = setTimeout(() => {
+      scrollToRow(document.querySelector(".highlight"));
+    }, 5000);
+  }
+
+  function addIdleListener() {
+    document.addEventListener("mousemove", idleChecker);
+    document.addEventListener("scroll", idleChecker);
+  }
+
   onMount(() => {
     getSongs().then(data => {
       songs.set(data);
     });
+
+    addIdleListener();
   });
 </script>
 

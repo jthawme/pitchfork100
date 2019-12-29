@@ -1,7 +1,24 @@
+<script context="module">
+  import scrollTo from "scroll-to";
+  export function scrollToRow(el) {
+    let currScroll = document.documentElement.scrollTop;
+    let hei = window.innerHeight;
+
+    const { y, height } = el.getBoundingClientRect();
+
+    const yOffset = (hei - height) / 2 - 20;
+    const scrollY = currScroll + y;
+
+    scrollTo(0, scrollY - yOffset, {
+      ease: "out-cube",
+      duration: 500
+    });
+  }
+</script>
+
 <script>
   import Grid from "../Grid.svelte";
   import UsersReactions from "../UsersReactions/UsersReactions.svelte";
-  import scrollTo from "scroll-to";
 
   export let imageUrl = "";
   export let youtube = {};
@@ -19,17 +36,10 @@
 
   $: {
     if (highlight && elRef) {
-      let currScroll = document.documentElement.scrollTop;
-      let hei = window.innerHeight;
-
-      const { y, height } = elRef.getBoundingClientRect();
-
-      const yOffset = height * 2;
-      const scrollY = currScroll + y;
-
-      scrollTo(0, scrollY - yOffset, {
-        ease: "out-cube",
-        duration: 500
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          scrollToRow(elRef);
+        });
       });
     }
   }

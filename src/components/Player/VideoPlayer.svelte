@@ -1,6 +1,6 @@
 <script>
   import { onMount, beforeUpdate } from "svelte";
-  import { playing } from "../../store/current.js";
+  import { playing, togglePlaying } from "../../store/current.js";
 
   export let videoId;
   export let time;
@@ -8,7 +8,7 @@
   export let onProgress;
   export let onEnd;
   export let onUnable;
-  export let shouldPlay;
+  export let onError;
 
   let videoRef;
   let player;
@@ -22,13 +22,19 @@
 
   function onPlayerStateChange(event) {
     if (event.data == YT.PlayerState.PLAYING) {
-      playing.set(true);
       onTime(player.getDuration());
       updateTime();
+
+      if (!$playing) {
+        togglePlaying(true);
+      }
     }
-    if (event.data == YT.PlayerState.PAUSED) {
-      playing.set(false);
-    }
+    // if (event.data == YT.PlayerState.PAUSED) {
+    //   if ($playing) {
+    //     togglePlaying(false);
+    //   }
+    // }
+
     if (event.data == YT.PlayerState.ENDED) {
       onEnd();
     }
@@ -37,6 +43,8 @@
   function onPlayerError(event) {
     if (event.data === 101 || event.data === 150) {
       onUnable();
+    } else {
+      onError();
     }
   }
 
@@ -52,6 +60,12 @@
           height: "390",
           width: "640",
           videoId: id,
+          playerVars: {
+            modestbranding: 0,
+            rel: 0,
+            showinfo: 0,
+            disablekb: 1
+          },
           events: {
             onReady: onPlayerReady,
             onStateChange: onPlayerStateChange,
@@ -66,14 +80,19 @@
 
   function ensureLoaded() {
     return new Promise((resolve, reject) => {
-      const check = () => {
-        if (!YT.Player) {
-          setTimeout(() => check(), 100);
+      const check = times => {
+        if (times > 10) {
+          console.error("Error loading youtube api");
+
+          return;
+        }
+        if (typeof YT === "undefined" || !YT.Player) {
+          setTimeout(() => check(times + 1), 100);
         } else {
           resolve();
         }
       };
-      check();
+      check(0);
     });
   }
 
@@ -89,15 +108,15 @@
     }
   }
 
-  $: {
+  playing.subscribe(_playing => {
     if (player && ready) {
-      if (shouldPlay) {
+      if (_playing) {
         player.playVideo();
       } else {
         player.pauseVideo();
       }
     }
-  }
+  });
 </script>
 
 <div bind:this={videoRef} />

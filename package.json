@@ -26,6 +26,7 @@
     "svelte-preprocess": "^3.3.0"
   },
   "dependencies": {
+    "scroll-to": "0.0.2",
     "sirv-cli": "^0.4.4"
   }
 }

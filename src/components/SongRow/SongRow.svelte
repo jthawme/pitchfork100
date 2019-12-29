@@ -1,6 +1,10 @@
 <script>
   import Grid from "../Grid.svelte";
   import UsersReactions from "../UsersReactions/UsersReactions.svelte";
+  import scrollTo from "scroll-to";
+
+  export let imageUrl = "";
+  export let youtube = {};
 
   export let song;
   export let number;
@@ -10,6 +14,25 @@
   export let onSelect;
 
   export let highlight;
+
+  let elRef;
+
+  $: {
+    if (highlight && elRef) {
+      let currScroll = document.documentElement.scrollTop;
+      let hei = window.innerHeight;
+
+      const { y, height } = elRef.getBoundingClientRect();
+
+      const yOffset = height * 2;
+      const scrollY = currScroll + y;
+
+      scrollTo(0, scrollY - yOffset, {
+        ease: "out-cube",
+        duration: 500
+      });
+    }
+  }
 </script>
 
 <style lang="scss">
@@ -100,8 +123,8 @@
   }
 </style>
 
-<span class="main" class:highlight on:click={onSelect}>
-  <Grid margin center>
+<span class="main" class:highlight on:click={onSelect} bind:this={elRef}>
+  <Grid margin>
     <div class="info">
       <span class="title">{song.title}</span>
       <span class="artist">{song.artist}</span>

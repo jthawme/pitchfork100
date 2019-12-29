@@ -8,30 +8,11 @@
     currentSong,
     currentIndex,
     songs,
-    playing
+    playing,
+    nextTrack,
+    previousTrack,
+    togglePlaying
   } from "../../store/current.js";
-
-  let shouldPlay = false;
-
-  function previousTrack() {
-    if ($currentIndex > 0) {
-      currentIndex.set($currentIndex - 1);
-    } else {
-      currentIndex.set($songs.length - 1);
-    }
-  }
-
-  function nextTrack() {
-    if ($currentIndex < $songs.length - 2) {
-      currentIndex.update(n => n + 1);
-    } else {
-      currentIndex.set(0);
-    }
-  }
-
-  function togglePlay() {
-    shouldPlay = !shouldPlay;
-  }
 </script>
 
 <style lang="scss">
@@ -70,13 +51,13 @@
   }
 
   .player {
-    grid-column: 5 / 11;
+    grid-column: 5 / 10;
   }
 
   .actions {
     display: flex;
 
-    grid-column: 11 / span 2;
+    grid-column: 10 / span 3;
 
     align-items: center;
     justify-content: flex-end;
@@ -135,10 +116,10 @@
           <span>{$currentSong.song.artist}</span>
         </div>
         <div class="player">
-          <Player {shouldPlay} />
+          <Player />
         </div>
         <div class="actions">
-          <button class="action spacer" on:click={togglePlay}>
+          <button class="action spacer" on:click={togglePlaying}>
             <Icon name={$playing ? 'pause' : 'play'} />
           </button>
           <a

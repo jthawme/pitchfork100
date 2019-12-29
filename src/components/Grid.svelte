@@ -1,5 +1,5 @@
 <script>
-  export let margin;
+  export let margin = false;
 </script>
 
 <style lang="scss">

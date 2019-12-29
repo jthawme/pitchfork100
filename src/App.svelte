@@ -3,6 +3,8 @@
 
   import MusicBar from "./components/MusicBar/MusicBar.svelte";
   import SongRow from "./components/SongRow/SongRow.svelte";
+  import KeyBindings from "./components/KeyBindings.svelte";
+
   import { songs, currentIndex, playing } from "./store/current.js";
 
   import logoSvg from "./svg/logo.svg";
@@ -92,6 +94,8 @@
 <span class="logo" class:playing={$playing}>
   {@html logoSvg}
 </span>
+
+<KeyBindings />
 
 <main>
   {#each $songs as song, index}

@@ -1,5 +1,10 @@
 <script>
-  import { currentSong, currentIndex, songs } from "../../store/current.js";
+  import {
+    currentSong,
+    currentIndex,
+    songs,
+    togglePlaying
+  } from "../../store/current.js";
   import VideoPlayer from "./VideoPlayer.svelte";
 
   export let shouldPlay = false;
@@ -123,24 +128,32 @@
     });
   }
 
-  let unableError = false;
+  let errorMessage = false;
+  let skipTimer;
   function onUnable() {
-    unableError = true;
+    errorMessage = "This track can't be played. Skipping";
 
-    const utter = new SpeechSynthesisUtterance(
-      "There is an error playing this song. Skipping"
-    );
-    speechSynthesis.speak(utter);
-
-    setTimeout(() => {
+    clearTimeout(skipTimer);
+    skipTimer = setTimeout(() => {
       onEnd();
     }, 5000);
   }
 
+  function onError() {
+    errorMessage = "There was an error playing. Pausing";
+
+    togglePlaying(false);
+  }
+
   $: {
     if ($currentIndex) {
-      unableError = false;
+      errorMessage = false;
     }
+  }
+
+  $: {
+    const utter = new SpeechSynthesisUtterance(errorMessage);
+    speechSynthesis.speak(utter);
   }
 </script>
 
@@ -153,8 +166,8 @@
     :global(iframe) {
       position: absolute;
 
-      width: 0;
-      height: 0;
+      width: 100px;
+      height: 100px;
 
       bottom: 0;
       right: 0;
@@ -230,8 +243,8 @@
     on:mousedown={onHandleDown}
     on:touchstart={onHandleDown} />
 
-  {#if unableError}
-    <div class="error">This song cannot be played from this website</div>
+  {#if errorMessage}
+    <div class="error">{errorMessage}</div>
   {/if}
 
   {#if $currentSong}

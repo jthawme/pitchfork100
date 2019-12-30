@@ -18,6 +18,7 @@
 
 <script>
   import Grid from "../Grid.svelte";
+  import LazyImage from "../LazyImage.svelte";
   import UsersReactions from "../UsersReactions/UsersReactions.svelte";
 
   export let imageUrl = "";
@@ -63,43 +64,55 @@
   .info {
     font-family: var(--font-family-headline);
 
-    grid-column: 4 / span 3;
+    grid-column: 2 / span 7;
     align-self: center;
 
     span {
       display: block;
     }
+
+    @media screen and (min-width: 568px) {
+      grid-column: 4 / span 3;
+    }
   }
 
   .number {
-    grid-column: 8 / span 1;
+    grid-column: 9 / span 1;
     align-self: center;
+
+    @media screen and (min-width: 568px) {
+      grid-column: 8 / span 1;
+    }
   }
 
   .image {
-    grid-column: 11 / span 1;
+    grid-column: 11 / span 2;
 
-    img {
+    :global(img) {
       width: 100%;
+    }
+
+    @media screen and (min-width: 568px) {
+      grid-column: 11 / span 1;
     }
   }
 
   .highlight {
     .info {
       grid-row: 2;
-      grid-column: 2 / span 6;
+      grid-column: 1 / span 7;
 
       align-self: flex-start;
     }
 
     .image {
       grid-row: 1 / span 2;
-      grid-column: 8 / span 4;
+      grid-column: 8 / span 5;
     }
 
     .number {
       grid-row: 1;
-      grid-column: 2;
+      grid-column: 1;
 
       align-self: flex-end;
 
@@ -114,7 +127,7 @@
 
         padding-top: 0px;
 
-        border: 5px solid currentColor;
+        border: 3px solid currentColor;
 
         border-radius: 100%;
 
@@ -124,11 +137,38 @@
     }
 
     .title {
-      font-size: var(--font-size-x-large);
+      font-size: var(--font-size-large);
     }
 
     .artist {
-      font-size: var(--font-size-large);
+      font-size: var(--font-size-regular);
+    }
+
+    @media screen and (min-width: 568px) {
+      .info {
+        grid-row: 2;
+        grid-column: 2 / span 6;
+
+        align-self: flex-start;
+      }
+
+      .image {
+        grid-row: 1 / span 2;
+        grid-column: 8 / span 4;
+      }
+
+      .number {
+        grid-row: 1;
+        grid-column: 2;
+      }
+
+      .title {
+        font-size: var(--font-size-x-large);
+      }
+
+      .artist {
+        font-size: var(--font-size-large);
+      }
     }
   }
 </style>
@@ -139,14 +179,14 @@
       <span class="title">{song.title}</span>
       <span class="artist">{song.artist}</span>
       {#if highlight}
-        <UsersReactions />
+        <UsersReactions {number} />
       {/if}
     </div>
     <div class="number">
       <span>{number}</span>
     </div>
     <div class="image">
-      <img src="/images/{image}" alt={name} />
+      <LazyImage src="/images/{image}" alt={name} />
     </div>
   </Grid>
 </span>

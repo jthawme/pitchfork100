@@ -11,6 +11,7 @@
     grid-auto-rows: min-content;
 
     max-width: 1280px;
+    margin: 0 auto;
   }
 
   .margin {

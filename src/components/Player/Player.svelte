@@ -152,8 +152,10 @@
   }
 
   $: {
-    const utter = new SpeechSynthesisUtterance(errorMessage);
-    speechSynthesis.speak(utter);
+    if (errorMessage) {
+      const utter = new SpeechSynthesisUtterance(errorMessage);
+      speechSynthesis.speak(utter);
+    }
   }
 </script>
 
@@ -232,6 +234,8 @@
     color: white;
 
     padding: calc(var(--size-padding) / 2);
+
+    text-align: center;
   }
 </style>
 

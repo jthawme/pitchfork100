@@ -2,10 +2,12 @@
   import { onMount } from "svelte";
 
   import MusicBar from "./components/MusicBar/MusicBar.svelte";
+  import Graph from "./components/Graph/Graph.svelte";
   import SongRow, { scrollToRow } from "./components/SongRow/SongRow.svelte";
   import KeyBindings from "./components/KeyBindings.svelte";
 
   import { songs, currentIndex, playing } from "./store/current.js";
+  import { hydrate } from "./store/persist.js";
 
   import logoSvg from "./svg/logo.svg";
 
@@ -23,7 +25,7 @@
     clearTimeout(idleTimer);
     idleTimer = setTimeout(() => {
       scrollToRow(document.querySelector(".highlight"));
-    }, 5000);
+    }, 10000);
   }
 
   function addIdleListener() {
@@ -32,6 +34,8 @@
   }
 
   onMount(() => {
+    hydrate();
+
     getSongs().then(data => {
       songs.set(data);
     });
@@ -52,11 +56,11 @@
 
     z-index: 10;
 
-    top: var(--size-padding);
-    left: var(--size-padding);
+    top: calc(var(--size-padding) / 2);
+    left: calc(var(--size-padding) / 2);
 
-    width: 100px;
-    height: 100px;
+    width: 40px;
+    height: 40px;
 
     color: black;
 
@@ -67,6 +71,14 @@
         timing-function: linear;
         iteration-count: infinite;
       }
+    }
+
+    @media screen and (min-width: 568px) {
+      top: var(--size-padding);
+      left: var(--size-padding);
+
+      width: 100px;
+      height: 100px;
     }
   }
 
@@ -105,6 +117,10 @@
     //   );
     // }
   }
+
+  section {
+    padding: var(--size-padding) var(--size-padding) 40vh;
+  }
 </style>
 
 <span class="logo" class:playing={$playing}>
@@ -121,5 +137,9 @@
       highlight={index === $currentIndex} />
   {/each}
 </main>
+
+<section>
+  <Graph />
+</section>
 
 <MusicBar />

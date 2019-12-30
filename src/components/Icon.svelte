@@ -8,6 +8,7 @@
   import ThumbsUp from "../svg/thumbs-up.svg";
   import Play from "../svg/play.svg";
   import Pause from "../svg/pause.svg";
+  import X from "../svg/x.svg";
 
   export let name = "";
   export let size = "medium";
@@ -21,7 +22,8 @@
     "thumbs-down": ThumbsDown,
     "thumbs-up": ThumbsUp,
     play: Play,
-    pause: Pause
+    pause: Pause,
+    x: X
   };
 
   function getIcon(name) {

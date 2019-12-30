@@ -74,6 +74,10 @@
         });
       });
     } else {
+      if (typeof player.loadVideoById !== "function") {
+        setTimeout(() => loadPlayer(id), 500);
+        return;
+      }
       player.loadVideoById(id);
     }
   }

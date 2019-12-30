@@ -2,6 +2,7 @@
   import { onMount, onDestroy } from "svelte";
   import {
     currentIndex,
+    currentSong,
     songs,
     playing,
     nextTrack,
@@ -9,6 +10,7 @@
     togglePlaying
   } from "../store/current.js";
   import { keyBindings, addKeyBinding } from "../store/keys.js";
+  import { users, changeVote } from "../store/votes.js";
 
   function onKeyUp(e) {
     if ($keyBindings[e.key]) {
@@ -17,18 +19,19 @@
         func();
       });
     } else {
-      console.log(e.key);
+      $users.forEach(({ keys, id }) => {
+        if (keys.includes(e.key)) {
+          e.preventDefault();
+          const idx = keys.indexOf(e.key);
+
+          changeVote($currentSong.number, id, idx === 0 ? 1 : -1);
+        }
+      });
     }
   }
 
   function setEventListeners() {
-    window.addEventListener("keyup", onKeyUp, false);
-
-    window.addEventListener("keydown", function(e) {
-      if (e.keyCode == 32 && e.target == document.body) {
-        e.preventDefault();
-      }
-    });
+    window.addEventListener("keydown", onKeyUp, false);
   }
 
   function unsetEventListeners() {

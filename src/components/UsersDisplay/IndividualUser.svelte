@@ -1,8 +1,15 @@
+<script>
+  import { media } from "../../utils";
+  export let name;
+  export let keys;
+  export let color;
+</script>
+
 <style lang="scss">
   div {
     display: flex;
 
-    padding-right: 50px;
+    padding-right: 10px;
 
     span {
       margin: 0 5px;
@@ -20,9 +27,19 @@
     width: 12px;
     height: 12px;
 
-    background-color: var(--color-orange);
-
     border-radius: 100%;
+
+    &.orange {
+      background-color: var(--color-orange);
+    }
+
+    &.green {
+      background-color: var(--color-green);
+    }
+
+    &.purple {
+      background-color: var(--color-purple);
+    }
   }
 
   .action {
@@ -31,7 +48,9 @@
 </style>
 
 <div>
-  <span class="circle" />
-  <span class="name">User 1</span>
-  <span class="action">(Up / Down to vote)</span>
+  <span class="circle {color}" />
+  <span class="name">{name}</span>
+  {#if $media.tablet}
+    <span class="action">({keys[0]} / {keys[1]} to vote)</span>
+  {/if}
 </div>

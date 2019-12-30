@@ -60,7 +60,22 @@
 
     <script defer src="https://www.youtube.com/iframe_api"></script>
     <script defer src="/build/bundle.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
   </head>
 
-  <body></body>
+  <body>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-69179600-10"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-69179600-10");
+    </script>
+  </body>
 </html>
